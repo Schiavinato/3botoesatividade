@@ -10,15 +10,9 @@ export const styles = StyleSheet.create({
 
   btn1: {
     backgroundColor: "blue",
-    fontSize:,
-    bottom:,
-    width:,
-    height:,
   },
 
   btn2: {
-      backgroundColor: "blue",
-      width:,
-      height:,
-    },
+    backgroundColor: "blue",
+  },
 });
